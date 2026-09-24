@@ -1,11 +1,11 @@
-﻿# 大课件
+# ��μ�
 *.pptx
 *.ppt
 
-# 大 PDF 电子课本
+# �� PDF ���ӿα�
 *.pdf
 
-# 其他大文件
+# �������ļ�
 *.zip
 *.rar
 *.7z
@@ -18,20 +18,18 @@
 *.psd
 *.ai
 
-# 安装包
+# ��װ��
 *.exe
 *.msi
 
-# 系统文件
+# ϵͳ�ļ�
 Thumbs.db
 Desktop.ini
 .DS_Store
 
-# 缓存/临时
+# ����/��ʱ
 *.tmp
 *.log
 __pycache__/
 node_modules/
 
-# 临时排除 docx分批推送用
-*.docx
