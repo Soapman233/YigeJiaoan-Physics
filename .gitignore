@@ -33,3 +33,9 @@ Desktop.ini
 __pycache__/
 node_modules/
 
+
+# D盘教材资源排除规则
+*.rar
+*.7z
+*.iso
+*.crdownload
